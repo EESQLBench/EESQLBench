@@ -7,7 +7,7 @@
 <p align="center" width="100%">
   <a href="#">🔗 Paper</a>
   &nbsp; &nbsp;
-  <a href="https://bird-bench.github.io/">🏆 Leaderboard</a>
+  <a href="https://eesqlbench.github.io">🏆 Leaderboard</a>
 <p>
 
 
