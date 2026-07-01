@@ -19,7 +19,7 @@ EESQLBench is an efficiency-oriented Text-to-SQL benchmark containing 213 tasks.
 
 The dataset mainly contains the following resources:
 
-- `database`: [Download](https://pan.quark.cn/s/6d5a27008163?pwd=dRUu) it to the project root directory.
+- `database`: Download ([MySQL ver.](https://pan.quark.cn/s/9e078887f3fd?pwd=W4PA) / [SQLite ver.](https://pan.quark.cn/s/5bd005918e43?pwd=fBiq)) it to the project root directory.
 
     ```bash
     tar -xzvf EESQL.tar.gz # Uncompress
